@@ -16,7 +16,7 @@ function MainComponent({ fetching, responses, errorOccurred, fetchSuccess }) {
       >
         {errorOccurred ? "Error" : "Success"}
       </div>
-      {responses.map((response, index) => (
+      {responses.data.map((response, index) => (
         <div
           key={index}
           className="w-full text-sm text-gray-800 bg-gray-100 border border-gray-300 rounded-md overflow-auto p-3 my-2"
