@@ -55,4 +55,4 @@ const styles = {
     lineHeight: "49px",
     margin: 0,
   },
-} as const;
+};

@@ -1,4 +1,4 @@
-name = "my-next-app"
+name = "my-next"
 compatibility_date = "2024-03-29"
 compatibility_flags = ["nodejs_compat"]
 
