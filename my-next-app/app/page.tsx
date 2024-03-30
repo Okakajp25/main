@@ -56,6 +56,7 @@ export default function Home() {
             URLを指定して繰り返し回数を指定するとその回数分API(GETのjsonのみ)を叩いてくれます
           </p>
         </a>
+        <h1>その他続々追加!</h1>
       </div>
     </main>
   );
